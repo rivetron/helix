@@ -42,7 +42,7 @@ Ensure you have the following installed:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/Kosha-Nirman/helix.git
+   git clone https://github.com/rivetron/helix.git
    cd helix
    ```
 
